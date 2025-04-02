@@ -40,10 +40,3 @@
 ## 项目结构
 - `server/` MCP server目录
 - `index.ts` MCP Client和大模型调用MCP
-
-
-## 贡献
-欢迎提交 Issue 或 Pull Request 来改进本项目！
-
-## 许可证
-本项目基于 [MIT 许可证](LICENSE) 开源。
