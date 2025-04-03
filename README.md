@@ -2,6 +2,7 @@
 
 ## 项目简介
 本项目是一个基于 TypeScript 和 SQLite 的快速入门案例，旨在帮助开发者快速构建和运行项目，了解MCP流程。配合博客食用更佳
+[TypeScript跑通第一个MCP，使用Deepseek查询sqlite数据库](https://mirror.xyz/linsoap.eth/2dhU-98UxChCgGLohuW6CYEPdpD-ZWCCikJd48MVCOg)
 
 ## 环境要求
 在开始之前，请确保您的系统已安装以下工具：
